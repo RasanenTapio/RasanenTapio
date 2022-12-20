@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+I’m a researcher and a Ph.D. student in economics. You can check my GitHub Pages [here](https://rasanentapio.github.io/) 
+
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg'>
+
 
 <!--
 **RasanenTapio/RasanenTapio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
