@@ -2,8 +2,9 @@
 
 I’m a researcher and a Ph.D. student in economics. You can check my GitHub Pages [here](https://rasanentapio.github.io/) 
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg'>
+Register based research with 
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg' width="50" height="50"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' width="50" height="50"/>
 
 
 <!--
