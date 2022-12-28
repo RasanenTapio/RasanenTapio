@@ -6,9 +6,7 @@ My research interests include family policies and their (sometimes unintended) e
 
 ## Tools ##
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg' width="50" height="50"/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' width="50" height="50"/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg' width="50" height="50"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg' width="50" height="50"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' width="50" height="50"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg' width="50" height="50"/>
 
 ## Research fields ##
 * Labour Economics
@@ -20,7 +18,7 @@ My research interests include family policies and their (sometimes unintended) e
 ## Facts ##
 - 🔭 I’m currently working on topics on family policy
 - 🌱 I’m currently learning R, Markdown, Tidyverse
-- 📫 How to reach me: Check out my contact information on [GitHub Pages]
+- 📫 How to reach me: Check out my contact information on [GitHub Pages](https://rasanentapio.github.io/) 
 
 <!--
 **RasanenTapio/RasanenTapio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
