@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I’m a researcher and a Ph.D. student in economics. You can check my GitHub Pages [here](https://rasanentapio.github.io/) 
+I’m a senior researcher and a Ph.D. in economics. You can check my GitHub Pages [here](https://rasanentapio.github.io/) 
 
-My research interests include family policies and their (sometimes unintended) effects. I analyze administrative register data, SQL, R and SAS in my everyday work.
+My research interests include family policies and their (sometimes unintended) effects. I analyze administrative register data with SQL, R and SAS in my everyday work.
 
 ## Tools ##
 
